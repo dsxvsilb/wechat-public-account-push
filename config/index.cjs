@@ -31,10 +31,6 @@ const USER_CONFIG = {
         {
           type: '*生日', name: 'MOMO', year: '1995', date: '05-08',
         },
-        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {
-          type: '生日', name: 'MOMO', year: '1995', date: '06-05',
-        },
         {
           type: '节日', name: '相识纪念日', year: '2019', date: '05-20',
         },
